@@ -1,9 +1,11 @@
 # Lars Henrik Roan Midtsæter
-
-### Const facts = [
-  //I like:
+Currently a student at <a href="https://www.kodehode.no/" target="_blank">KodeHode</a> learning frontend development.
+```js
+const hobbies = [
   "coding",
   "music",
   "old cars",
-  "dark souls"
-]
+  "dark souls",
+  "furries?"
+];
+```
