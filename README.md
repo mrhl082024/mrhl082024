@@ -10,4 +10,4 @@ const hobbies = [
 ];
 ```
 ### Tools:
-<img width="80%" src="https://skillicons.dev/icons?i=js,html,css,react,git,linux,vscode">
+<img width="80%" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,npm,bash,git,linux,vscode">
