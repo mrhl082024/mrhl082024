@@ -3,10 +3,10 @@ Currently a student at <a href="https://www.kodehode.no/" target="_blank">KodeHo
 ```js
 const hobbies = [
   "coding",
+  "cooking",
   "music",
   "old cars",
-  "dark souls",
-  "furries?"
+  "dark souls"
 ];
 ```
 ### Tools:
